@@ -4,9 +4,9 @@ const modelProject = require('./model/projects'); // Modelo de Project
 const modelScreenshots = require('./model/screenshots'); // Modelo de Screenshots
 
 
-const entorno = false;
+const entorno = true;
 
-const dburl = entorno ? 'postgresql://postgres:PdmmIKhoWvQuRgjqsAsLIQzNLYOOEqzs@postgres:5432/railway' : 'postgres:postgres:123@localhost:5432/me'
+const dburl = entorno ? 'postgresql://postgres:nGMSzKGuSRUaMbRduDlCRbLFQsUwKTdY@viaduct.proxy.rlwy.net:35801/railway' : 'postgres:postgres:123@localhost:5432/me'
 
 const sequelize = new Sequelize(dburl, {
     logging: false,
