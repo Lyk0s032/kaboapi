@@ -1,0 +1,17 @@
+// COBERNET
+{
+    "wallpaper":"https://res.cloudinary.com/dr8pv3hga/image/upload/v1716573155/screenshotsProjects/cobernet/Diapositiva1_hdrvzd.jpg",
+    "nameProject":"Cobernet",
+    "category":"Empresarial",
+    "description":"CobernetFind es un software interno diseñado exclusivamente para Cobernet. Con un enfoque en la gestión eficiente de clientes y finanzas.",
+    "tags":["Javascript","HTML5","CSS3","PHP", "MySQL"],
+    "link":"",
+    "time": "2022-09-20"
+ }
+
+ {
+    "wallpaper":"https://res.cloudinary.com/dr8pv3hga/image/upload/v1716575517/screenshotsProjects/cobernet/finance_fhrul0.jpg",
+    "nameScreenshot":"Panel de finanzas",
+    "description":"Empresarial.",
+    "projectId": 5
+ }
